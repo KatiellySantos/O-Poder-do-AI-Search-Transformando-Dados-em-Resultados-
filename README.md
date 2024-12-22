@@ -56,7 +56,8 @@ ou gerar recomendações automáticas, deixando tudo mais prático e inteligente
     ▪️Clique em Importar Dados para carregar as informações do contêiner criado.
     ▪️Verifique se os dados foram importados corretamente.
     ▪️Use o Search Explorer para consultar os resultados.
-    ![Passo07](https://github.com/user-attachments/assets/8935bf27-c687-4594-86e8-1fc17a955fa1)
+![Sem título](https://github.com/user-attachments/assets/bce28fd7-0d11-4389-83b9-5426b4a7442b)
+
 
        
 
